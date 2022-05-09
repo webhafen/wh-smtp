@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: SMTP
+ * Plugin Name: WH SMTP
+ * Plugin URI: https://github.com/webhafen/wh-smtp
  * Description: Adds SMTP functionality to WordPress. Plain and simple.
  * Author: webhafen
  * Author URI: https://webhafen.com
- * Text Domain: wh-smtp
  */
 
 add_action("phpmailer_init", "run_phpmailer_with_smtp");

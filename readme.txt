@@ -1,4 +1,4 @@
-=== SMTP ===
+=== SMTP for WordPress ===
 Contributors: tobiasfeistmantl
 Tags: smtp, mail
 License: GPLv3
